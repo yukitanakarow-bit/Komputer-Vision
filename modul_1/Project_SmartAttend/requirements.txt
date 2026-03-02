@@ -1,0 +1,13 @@
+# Requirements untuk SmartAttend Project
+# Install dengan: pip install -r requirements.txt
+
+# Core Libraries
+opencv-python>=4.8.0          # Main computer vision library
+numpy>=1.24.0                 # Numerical computing
+pillow>=10.0.0                # Image processing (PIL)
+
+# GUI
+# Tkinter biasanya sudah built-in dengan Python, tidak perlu install
+
+# Documentation (Optional)
+markdown>=3.4.0               # For markdown processing
